@@ -25,7 +25,7 @@ npm run client
 
 ## Author
 
-**germancutraro**
+**Bhuvan**
 
 ## Why
 
